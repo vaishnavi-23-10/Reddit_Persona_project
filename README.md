@@ -64,9 +64,7 @@ Then enter any Reddit username when prompted:
 🔹 Enter Reddit username:xxx
 
 ---
+````
 
 🙋‍♀️ Author
 Built with ❤️ by Vaishnavi Singh
-
----
-````
