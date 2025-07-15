@@ -1,0 +1,45 @@
+Here is a detailed user persona based on the Reddit activity:
+
+**Age:** Late 20s to Early 30s
+
+**Occupation:** Software Engineer, Researcher, or Product Manager in the Artificial Intelligence or Technology industry
+
+**Location:** San Francisco Bay Area, California, USA (based on the Pacific Time Zone mentioned in the posts)
+
+**Behaviour & Habits:**
+
+* Actively participates in online communities, specifically Reddit, to engage with others and share knowledge (evidenced by multiple posts and comments)
+* Values clarity and accuracy, as seen in the repeated clarifications and corrections provided in the posts (e.g., "Sorry about that. To clarify:")
+* Is comfortable with technical jargon and terminology, using terms like "Advanced Voice limits," "Codex CLI," and "model behavior" (suggesting a strong technical background)
+* Is willing to spend time answering questions and providing information to others, as seen in the multiple AMA (Ask Me Anything) sessions (Data: multiple posts with lengthy lists of participants and topics)
+
+**Frustrations:**
+
+* May feel frustrated when others misunderstand or misinterpret information, leading to repeated clarifications (Data: "Sorry about that. To clarify:")
+* May feel overwhelmed by the volume of questions and topics to be addressed, as seen in the need to set time limits for the AMA sessions (Data: "We'll be online from 11:00am-12:00pm PT to answer questions.")
+
+**Motivations:**
+
+* Is motivated by a desire to share knowledge and educate others, as seen in the willingness to participate in multiple AMA sessions (Data: multiple posts with lengthy lists of participants and topics)
+* Values transparency and openness, as evidenced by the provision of proof links to external sources (Data: "PROOF: https://x.com/OpenAIDevs/status/1923417722496471429")
+
+**Goals & Needs:**
+
+* Needs to effectively communicate complex technical information to others (Data: repeated clarifications and corrections)
+* Goals include educating others about AI and related technologies, as seen in the participation in AMA sessions and sharing of knowledge (Data: multiple posts with lengthy lists of participants and topics)
+* Needs to stay organized and manage time effectively, as seen in the setting of time limits for the AMA sessions (Data: "We'll be online from 11:00am-12:00pm PT to answer questions.")
+
+**Personality (MBTI-style):**
+
+* Type: INTJ (Introverted, Intuitive, Thinking, Judging)
+* Traits:
+	+ Independent and self-motivated, as seen in the willingness to participate in multiple AMA sessions
+	+ Analytical and detail-oriented, as evidenced by the repeated clarifications and corrections
+	+ Confident and knowledgeable, as seen in the provision of technical information and expertise
+	+ Organized and structured, as evidenced by the setting of time limits and provision of proof links
+
+Examples:
+
+* "Sorry about that. To clarify:" (INTJ trait: attention to detail and desire for accuracy)
+* "We'll be online from 11:00am-12:00pm PT to answer questions." (INTJ trait: organization and planning)
+* "Thanks everyone for participating and please keep the feedback on Codex coming!" (INTJ trait: appreciation for independent thought and feedback)
