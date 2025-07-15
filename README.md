@@ -6,14 +6,14 @@ This tool takes a Reddit username, scrapes their public posts and comments, and 
 
 ## 📸 Sample Output
 
-Age: 25–30
-Occupation: Remote Software Engineer
-Location: UK
-Behaviour & Habits: Frequently discusses health-conscious food options and productivity tools (e.g., “I hate when apps don't show healthy options.”)
-Frustrations: Lack of accessible healthy eating choices
-Motivations: Improve lifestyle and productivity balance
-Goals & Needs: Stay healthy while working remotely
-Personality: Likely INTJ — goal-oriented, analytical, wellness-focused
+- **Age:** 25–30
+- **Occupation:** Remote Software Engineer
+- **Location:** UK
+- **Behaviour & Habits:** Frequently discusses health-conscious food options and productivity tools (e.g., “I hate when apps don't show healthy options.”)
+- **Frustrations:** Lack of accessible healthy eating choices
+- **Motivations:** Improve lifestyle and productivity balance
+- **Goals & Needs:** Stay healthy while working remotely
+- **Personality:** Likely INTJ — goal-oriented, analytical, wellness-focused
 
 ---
 
@@ -28,6 +28,8 @@ Personality: Likely INTJ — goal-oriented, analytical, wellness-focused
 ---
 
 ## 📁 Project Structure
+
+````
 
 reddit_second/
 ├── scripts/
@@ -67,4 +69,4 @@ Then enter any Reddit username when prompted:
 Built with ❤️ by Vaishnavi Singh
 
 ---
-```
+````
